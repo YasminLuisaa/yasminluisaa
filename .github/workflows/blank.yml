@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v2
 
       # Repositório que será utilizado para gerar os arquivos.
-      - uses: Platane/snk@master
+      - uses: yasminluisaa/snk@master
         id: cobra-gif
         with:
           github_user_name: yasminluisaa # Seu usuário
