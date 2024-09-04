@@ -1,3 +1,8 @@
+The workflow script you've provided is designed to generate GitHub contribution grid snakes, modify their background color to black, and push the changes to an output branch. The script already includes steps to change the background color of both the GIF and SVG files to black.
+
+Here is the updated script for your GitHub Actions workflow:
+
+```yaml
 name: Generate Snake
 
 on:
