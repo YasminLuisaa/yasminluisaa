@@ -15,28 +15,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">Anurag Hazra's GitHub Stats</h3>
+<div>
+    <a href="https://beacons.ai/yasminluisaa">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasminluisaa&show_icons=true&theme=dark&title_color=f45a8d&text_color=66ffcc&bg_color=2d2a55&icon_color=f45a8d&border_color=444c56&border_radius=10" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=dark&title_color=f45a8d&text_color=66ffcc&bg_color=2d2a55&icon_color=f45a8d&border_color=444c56&border_radius=10" />
+    </a>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Stars%20Earned-71.7k-brightgreen?style=for-the-badge&logo=star&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Total%20Commits%20(2024)-99-yellow?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Total%20Issues-190-red?style=for-the-badge&logo=issue&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/AnuragHazra/github-readme-stats/blob/master/stats.svg" alt="stats" style="width: 200px;"/>
-</p>
 
 
  ##
  
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="yas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="yas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="yas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="yas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+  
 </div>
+
   
   ##
  
