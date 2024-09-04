@@ -14,6 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="center">Anurag Hazra's GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Stars%20Earned-71.7k-brightgreen?style=for-the-badge&logo=star&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Total%20Commits%20(2024)-99-yellow?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Total%20Issues-190-red?style=for-the-badge&logo=issue&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/AnuragHazra/github-readme-stats/blob/master/stats.svg" alt="stats" style="width: 200px;"/>
+</p>
+
+
+ ##
+ 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="yas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="yas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
