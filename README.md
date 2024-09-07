@@ -1,4 +1,4 @@
-## OLá, eu sou a Yasmin ! 👋
+## Olá, eu sou a Yasmin ! 👋
 
 <!--
 **YasminLuisaa/yasminluisaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ![robot (3)](https://github.com/user-attachments/assets/6fd176cc-e3e8-42da-a242-8d6c2f73d1d0) 
+
+
 <div>
     <a href="https://beacons.ai/yasminluisaa">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasminluisaa&show_icons=true&theme=dark&title_color=f45a8d&text_color=66ffcc&bg_color=2d2a55&icon_color=f45a8d&border_color=444c56&border_radius=10" />
