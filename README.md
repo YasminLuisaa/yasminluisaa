@@ -20,6 +20,10 @@ Here are some ideas to get you started:
     <a href="https://beacons.ai/yasminluisaa">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasminluisaa&show_icons=true&theme=dark&title_color=f45a8d&text_color=66ffcc&bg_color=2d2a55&icon_color=f45a8d&border_color=444c56&border_radius=10" />
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=dark&title_color=f45a8d&text_color=66ffcc&bg_color=2d2a55&icon_color=f45a8d&border_color=444c56&border_radius=10" />
+        <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
+        <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
+<br><br>
+<br><br>
     </a>
 </div>
 
