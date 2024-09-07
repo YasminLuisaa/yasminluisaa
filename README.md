@@ -15,15 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![robot (3)](https://github.com/user-attachments/assets/6fd176cc-e3e8-42da-a242-8d6c2f73d1d0) 
 <div>
     <a href="https://beacons.ai/yasminluisaa">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasminluisaa&show_icons=true&theme=dark&title_color=f45a8d&text_color=66ffcc&bg_color=2d2a55&icon_color=f45a8d&border_color=444c56&border_radius=10" />
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=dark&title_color=f45a8d&text_color=66ffcc&bg_color=2d2a55&icon_color=f45a8d&border_color=444c56&border_radius=10" />
-        <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
-        <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
-<br><br>
-<br><br>
     </a>
 </div>
 
@@ -38,12 +34,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
 </div>
-
-  
   ##
- 
 <div> 
   <a href = "mailto:yasmin.luisa271@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yasmin-louren%C3%A7o-a50a20235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
