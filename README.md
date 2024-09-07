@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
 <div>
     <a href="https://beacons.ai/yasminluisaa">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasminluisaa&show_icons=true&theme=dark&title_color=f45a8d&text_color=66ffcc&bg_color=2d2a55&icon_color=f45a8d&border_color=444c56&border_radius=10" />
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=dark&title_color=f45a8d&text_color=66ffcc&bg_color=2d2a55&icon_color=f45a8d&border_color=444c56&border_radius=10" />
     </a>
 </div>
-
-![snake gif](https://github.com/yasminluisaa/yasminluisaa/blob/output/github-contribution-grid-snake.svg)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
