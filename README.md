@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     </a>
 </div>
 
-![snake gif](https://github.com/yasminluisaa/yasminluisaa/blob/output/github-contribution-grid-snake.svg)
+![snake gif]([https://github.com/yasminluisaa/yasminluisaa/blob/output/github-contribution-grid-snake.svg](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif))
 
 <div style="display: inline_block">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
